@@ -2,7 +2,7 @@
 
 L'analyse de ce nouveau jeu de données nous permet de mobiliser toutes nos connaissances.
 
-## 🎯 Objectifs du Business Case:
+## 🎯 Objectifs de ce Projet:
 
   ✅ Votre tableau de bord contient des graphiques <br>
   ✅ Votre tableau de bord contient au moins une visualisation de données interactive <br>
