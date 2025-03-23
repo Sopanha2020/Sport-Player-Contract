@@ -1,6 +1,6 @@
 # 📊📈📉📊 Sport Player Contract
 
-C'est l'opportunité d'utiliser toutes nos connaissances sur un nouveau jeu de données.
+L'analyse de ce nouveau jeu de données nous permet de mobiliser toutes nos connaissances
 
 ## 🎯 Objectifs du Business Case:
 
@@ -14,16 +14,14 @@ C'est l'opportunité d'utiliser toutes nos connaissances sur un nouveau jeu de d
 
 ## 🧠 KPIs Principaux:
 
-  I) Donnez le tableau de bord qui offre une vision approfondie du monde des contrats sportifs, <br>
-  mettant en lumière l'ampleur de ces accords en termes de nombre de joueurs et d'équipes <br>
-  impliqués, ainsi que la valeur moyenne des contrats.
+  I) Donnez le tableau de bord qui offre une vision approfondie du monde des contrats sportifs.
   
   II) Donnez le tableau de bord qui permet d'analyser l'évolution des valeurs contractuelles <br>
-  au fil du temps, offrant la possibilité de saisir les tendances générales du marché ?
+  au fil du temps, offrant la possibilité de saisir les tendances générales du marché.
   
   III) Donnez le tableau de bord qui met en évidence la prévalence des contrats garantis <br>
   dans le milieu sportif, illustrant la répartition de ces contrats entre <br>
-  les différentes disciplines ?
+  les différentes disciplines.
 
 ## 📊 Dashboards: 
 
