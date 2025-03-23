@@ -1,6 +1,6 @@
 # 📊📈📉📊 Sport Player Contract
 
-L'analyse de ce nouveau jeu de données nous permet de mobiliser toutes nos connaissances
+L'analyse de ce nouveau jeu de données nous permet de mobiliser toutes nos connaissances.
 
 ## 🎯 Objectifs du Business Case:
 
