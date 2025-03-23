@@ -11,6 +11,7 @@ L'analyse de ce nouveau jeu de données nous permet de mobiliser toutes nos conn
 ## 🧰 Outils Principaux: 
 
 - Power BI
+- Python
 
 ## 🧠 KPIs Principaux:
 
