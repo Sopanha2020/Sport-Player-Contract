@@ -1,13 +1,12 @@
-# 📊📈📉📊 Business-Case-Cyclistic
+# 📊📈📉📊 Sport Player Contract
 
 C'est l'opportunité d'utiliser toutes nos connaissances sur un nouveau jeu de données.
-Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoudre au mieux. Nous vous faisons confiance : nous allons faire une très bonne analyse.
 
 ## 🎯 Objectifs du Business Case:
 
-  ✅ Effectuer une analyse basée sur les données <br>
-  ✅ Présenter des visualisations pertinentes <br>
-  ✅ Proposer des conseils pour aider à la prise de décision
+  ✅ Votre tableau de bord contient des graphiques <br>
+  ✅ Votre tableau de bord contient au moins une visualisation de données interactive <br>
+  ✅ Votre tableau de bord contient au moins un tableau croisé
 
 ## 🧰 Outils Principaux: 
 
@@ -15,19 +14,21 @@ Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoud
 
 ## 🧠 KPIs Principaux:
 
-  I) Sémantique ? 
-  - Quelles sont les principales catégories d'emploi dans la data ?
-  - Où se trouve cette catégorie dans le monde ?
+  I) Donnez le tableau de bord qui offre une vision approfondie du monde des contrats sportifs, <br>
+  mettant en lumière l'ampleur de ces accords en termes de nombre de joueurs et d'équipes <br>
+  impliqués, ainsi que la valeur moyenne des contrats.
   
-  II) Entreprise & Contrat 
-  - Quels contrats sont les plus représentés ?
-  - Qu'en est-il de la taille de l'entreprise ?
+  II) Donnez le tableau de bord qui permet d'analyser l'évolution des valeurs contractuelles <br>
+  au fil du temps, offrant la possibilité de saisir les tendances générales du marché ?
   
-  III) Salaire et catégorie ?
-  - Quels sont les métiers les mieux payés ?
+  III) Donnez le tableau de bord qui met en évidence la prévalence des contrats garantis <br>
+  dans le milieu sportif, illustrant la répartition de ces contrats entre <br>
+  les différentes disciplines ?
 
 ## 📊 Dashboards: 
 
-![Image](https://github.com/user-attachments/assets/07345e2c-25b9-490a-8386-c1326db3079e)
+![Image](https://github.com/user-attachments/assets/cb743df4-3de3-4cc9-8d4a-f0198642aca5)
 
-![Image](https://github.com/user-attachments/assets/3284accd-4c7e-420e-8d85-9117cb266d73)
+![Image](https://github.com/user-attachments/assets/e2612ebc-8bd5-4c24-8a22-309c6d33294f)
+
+![Image](https://github.com/user-attachments/assets/e585c20c-82e4-451d-ae57-405253b937f2)
